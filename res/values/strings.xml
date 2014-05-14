@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ArtistApp</string>
+    <string name="artist_name">Imagine Dragons</string>
+    <string name="website_label">Official Website:\t</string>
+    <string name="website">imaginedragonsmusic.com</string>
+    <string name="genre_label">Genre: </string>
+    <string name="genre">Alternative Rock</string>
+    <string name="years_active_label">Years Active: </string>
+    <string name="lineup_label">Lineup: </string>
+    <string name="lineup">Dan Reynolds, Wayne Sermon, \nBen McKee, Daniel Platzman</string>
+    <string name="years_active">2008 - Present</string>
+    <string name="facebook_link_label">Facebook: </string>
+    <string name="facebook_link">https://www.facebook.com/ImagineDragons</string>
+    <string name="content_description">Image Dragons Picture</string>
+    <string name="video_label">Videos:</string>
+    <string name="images_label">Images:</string>
+    <string name="user_email_hint">Join our Mailing List.</string>
+    <string name="submit_button">Submit</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
